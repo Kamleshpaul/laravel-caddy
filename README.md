@@ -26,7 +26,7 @@ Step 3 : -
 
 edit `Caddyfile` based on the example [Caddyfile](./Caddyfile.example)
 
------
+---
 ## Usage
 
 ```sh
@@ -35,3 +35,6 @@ import snippets/*
 # Use the "laravel-app" snippet for our site:
 import laravel-app exmaple.com /var/www/html/laravel-app
 ```
+---
+
+> __NOTE : -__  Edit you php version [here](https://github.com/Kamleshpaul/laravel-caddy/blob/d695b143d5ec0230507ed5d80d96a073577a9467/snippets/laravel-app.conf#L18) which you want to use and install in you OS
