@@ -25,3 +25,13 @@ git clone https://github.com/Kamleshpaul/laravel-caddy.git
 Step 3 : - 
 
 edit `Caddyfile` based on the example [Caddyfile](./Caddyfile.example)
+
+-----
+## Usage
+
+```sh
+import snippets/*
+
+# Use the "laravel-app" snippet for our site:
+import laravel-app exmaple.com /var/www/html/laravel-app
+```
