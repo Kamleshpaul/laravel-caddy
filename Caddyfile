@@ -1,0 +1,4 @@
+import snippets/*
+
+# Use the "laravel-app" snippet for our site:
+import laravel-app exmaple.com /var/www/html/laravel-app
