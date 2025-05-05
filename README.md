@@ -2,7 +2,7 @@
 
 This is a caddy template for laravel 
 
-> NOTE : There is better way to host caddy with laravel read here : https://codingtricks.co/boost-laravel-performance-running-octane-with-frankenphp-in-production?utm=github
+> NOTE : There is better way to host caddy with laravel read here : [Boost Laravel Performance: Running Octane with FrankenPHP in Production ( Zero downtime)](https://codingtricks.co/posts/boost-laravel-performance-running-octane-with-frankenphp-in-production?utm=github)
 
 ## Prerequisites
 
